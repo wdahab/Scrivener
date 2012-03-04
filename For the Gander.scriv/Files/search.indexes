@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="26">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+	Role in Story:	
+	Occupation:	
+ 	
+
+Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="29">
+            <Title>Sample Story MS</Title>
+            <Text>Your Name Your address Your phone number Your e-mail address
+SHORT STORY MANUSCRIPT FORMAT by W. Ritter
+800 words
+Short story manuscript format is very similar to novel standard manuscript format. This template is intended to help you easily export or print using the standard format. In fact, this PDF file was generated using Scrivener's Compile feature. It was created in Scrivener using the Short Story project template.
+You should generally use a Courier 12-point font (which will print ten characters per inch). Because Courier is a monospace font (that is, all characters are the same width), it makes it easier for editors to detect spelling errors and also to calculate the approximate space your
+story will take up when published. Times New Roman and Arial are also usually acceptable though.
+Leave wide margins all around the page--at least an inch on all sides.
+Use double-spacing between lines--this gives the editor plenty of room to make corrections and notes.
+These guidelines will mean that you can't fit many words on a page--250 to 300 at the most. This will give your manuscript a higher page count, but it will pay off as it will be a lot easier for the editor to read--and you want to make the editor's job as easy as possible.
+# Print only on one side of the page. Your name, address,
+telephone number and e-mail address should go in the upper left corner of the first page of your manuscript. In the upper right corner, place an approximate word count. You can round up to the nearest hundred words, although in these days of word processors, a word processor-generated word count will probably be fine. The word count is used by the editor to work out how much space your story will take
+Ritter / Story Format / 2
+up. In Scrivener, you can insert a placeholder tag that will be replaced by your word count upon compile by using the Edit > Insert menu.
+The title of your story should go roughly halfway down the first page (the editor can use the empty space above it to make notes). The title should be centred, and it is usually capitalised. Place your by-line two lines beneath the title. This is the name you want to appear in print, which might be a pseudonym or might use your initials instead of your full name.
+The first line of your story should start two lines beneath your by-line, and should be indented five spaces (half an inch) from the left margin.
+# You should place a header in the upper right corner of
+every page of your manuscript except for the first page. The header should comprise the surname that appears in the by-line, a key word from the title of the story, and the current page number. (The header should not go in the left corner, as the editorial staff may clip your manuscript in
+Ritter / Story Format / 3
+that corner.) Text should be left-justified with a "ragged" right
+margin. Some folk will tell you that you should always place two spaces between sentences, but in these days of word processors this rule is not so hard and fast any more. If you are in the habit of typing two spaces between sentences, fine; if not, it is probably not worth worrying about. Recent studies have shown that the number of spaces you type between sentences--one or two--has no discernible impact on how easy a piece of text is to read.
+# If you wish a word or phrase to appear in italics, this
+should be indicated in the manuscript by underlining. In Scrivener, you can use italics while writing and then just use "Convert italics to underlines" in the Transformations pane of the Compile sheet.
+Em-dashes--extended hyphens that set off a phrase such as this--should be indicated using two hyphens. In Scrivener, you can use "Convert em-dashes to double hyphens" upon compile. (All of this is set up for you in
+Ritter / Story Format / 4
+the Short Story project template.) #
+Line breaks in your story should be indicated by placing the "#" character between lines rather than leaving a blank line. This makes it easy for the typesetter to see where line breaks should fall. If you write each scene as a separate text document, you can have these separator characters added automatically upon compilation by using the "Separators" pane of the Compile sheet.
+Finally, you do not need to make any overt indication that your story is over--you do not need to type "The End" or anything of the sort. The ending should be obvious from your story. Follow these instructions, and your short story manuscript should at least appear professional--the content is down to you!
+# Much of the information contained in this document is
+based on a description of short story manuscript format by Matt Carless for the BBC Writers' Room website: http:// www.bbc.co.uk/writersroom
+Ritter / Story Format / 5
+</Text>
+        </Document>
+        <Document ID="11">
+            <Title>First Page Header</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>WILLIAM DAHAB
+11 Burnett Ave
+Bay Shore
+NY
+11706
+631 7419458
+wdahab@gmail.com
+
+
+&lt;$wc100> words
+
+
+
+
+
+
+
+
+
+
+FOR THE GANDER
+
+by WILLIAM DAHAB</Text>
+            <Notes>The text from this document will appear at the top of the first page of the compiled story. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.</Notes>
+        </Document>
+        <Document ID="24">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Story</Title>
+        </Document>
+        <Document ID="27">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+	Role in Story:	
+
+	Related Characters:	
+
+	Season:	
+
+	Unique Features:	
+
+	Description:	
+
+	Sights:	
+	Sounds:	
+	Smells:	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Scene</Title>
+        </Document>
+        <Document ID="23">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="28">
+            <Title>Short Story Format</Title>
+            <Text>SHORT STORY MANUSCRIPT FORMAT
+
+About This Template
+When compiled (File > Compile), this project will generate a document in the standard manuscript format for short story submissions.
+
+How To Use this Template
+	•	Edit the First Page Header document to ensure it contains the correct information. The text in this document will appear at the top of the first page of the compiled story manuscript.
+	•	Create a new text document for each scene inside the Story folder. (Upon export, scenes will automatically be separated by the “#” character.) Alternatively, you can write your entire story in a single text document if you prefer (in which case you will need to add the “#” character between the scenes in your document yourself).
+	•	Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents > Change Icon feature.)
+	•	Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your story. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do - you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template > Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+	•	Compile your manuscript into standard short story manuscript format by selecting File > Compile.
+
+Making Changes
+You may wish to change the following:
+	•	Page header: You can edit the page header in the “Page Settings” pane of the Compile sheet.
+	•	Font: You can use “Quick Font Override” in Compile to change the font used throughout the final document.
+
+Sample Document
+See the “Sample Story MS” PDF file in the Research folder for an example of a document that has been created using this template.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File > Save As Template.</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
